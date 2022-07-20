@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vW8Y+oBTlQpB8H94++ASQ2ihC+aQakMQE4XBeKTDP7lsM1bRbEBGHWg1oZzv3p2G0qKWlt4qN2PVyWyf9JrM6A==",
+  "dgSpecHash": "vywoMh0joHPPgx/pdqYr329COUGUFII14GpKRliZ4fTKsiMF00ixKqF/53UYoWbFAZvSnYyERBD8mSBxbzkHVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\Documents\\c sharp\\TodoAppWith EF\\TodoAppWith EF\\TodoAppWith EF.csproj",
+  "projectFilePath": "C:\\Users\\Decagon\\Documents\\c sharp\\.Net Tasks\\TodoAppWith EF\\TodoAppWith EF\\TodoAppWith EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Decagon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

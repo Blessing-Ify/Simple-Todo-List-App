@@ -9667,11 +9667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\c sharp\\TodoAppWith EF\\TodoAppWith EF\\TodoAppWith EF.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\c sharp\\.Net Tasks\\TodoAppWith EF\\TodoAppWith EF\\TodoAppWith EF.csproj",
       "projectName": "TodoAppWith EF",
-      "projectPath": "C:\\Users\\Decagon\\Documents\\c sharp\\TodoAppWith EF\\TodoAppWith EF\\TodoAppWith EF.csproj",
+      "projectPath": "C:\\Users\\Decagon\\Documents\\c sharp\\.Net Tasks\\TodoAppWith EF\\TodoAppWith EF\\TodoAppWith EF.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\Documents\\c sharp\\TodoAppWith EF\\TodoAppWith EF\\obj\\",
+      "outputPath": "C:\\Users\\Decagon\\Documents\\c sharp\\.Net Tasks\\TodoAppWith EF\\TodoAppWith EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",

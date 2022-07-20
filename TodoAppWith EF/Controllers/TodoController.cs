@@ -88,6 +88,29 @@ namespace TodoAppWith_EF.Controllers
             return RedirectToAction("Index"); 
         }
 
+        //search
+        [HttpPost]
+        public async Task<ActionResult> Index(string SearchName = "")
+        {
+            List<TodoList> listOfItems;
+            if (SearchName != "" && SearchName != null)
+            {
+                listOfItems = _context.TodoLists
+                    .Where(d => d.Title.Contains(SearchName)).ToList();
+                TempData["Success"] = "The item was found!";
+            }
+            else
+            {
+                listOfItems = await _context.TodoLists.ToListAsync();
+                await _context.SaveChangesAsync();
+
+            }
+
+            if(listOfItems.Count == 0)
+
+                TempData["Error"] = "The item was not found";
+            return View(listOfItems);
+        }
     }
 }
 
